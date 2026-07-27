@@ -120,6 +120,3 @@ The project is deployed on Streamlit Community Cloud.
 
 **URL:** https://v4k9dy2tl4gy6uxisxai5f.streamlit.app/
 
-## License
-
-MIT
